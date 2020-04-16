@@ -14,4 +14,5 @@ curry(foo, 2, 3, 4)(); // -> 24
 ```
 
 ## 代码练习：./zz_test1.js
-## [参考文档地址](https://www.jianshu.com/p/2975c25e4d71)
+## [柯里化参考文档](https://www.jianshu.com/p/2975c25e4d71)
+## [匿名函数相关文档](https://www.cnblogs.com/ranyonsue/p/10181035.html)
