@@ -13,4 +13,5 @@ curry(foo, 2, 3)(4); // -> 24
 curry(foo, 2, 3, 4)(); // -> 24
 ```
 
+## 代码练习：./zz_test1.js
 ## [参考文档地址](https://www.jianshu.com/p/2975c25e4d71)
