@@ -44,7 +44,7 @@ let k5 = curry(foo, 2, 3, 4)();
 
 // 统一输出
 (function () {
-  let allPush = {
+  console.log({
     'add-value': t1,
     'curryingAdd-value': t2,
     'curryFoo-value': [
@@ -54,6 +54,5 @@ let k5 = curry(foo, 2, 3, 4)();
       k4,
       k5
     ],
-  }
-  console.log(allPush)
+  })
 })()
