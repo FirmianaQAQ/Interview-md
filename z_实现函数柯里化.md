@@ -1,4 +1,4 @@
-# [< |](./readme.md) 实现函数柯里化
+# [< |](./readme.md) 实现函数柯里化 
 
 ```
 const curry = (fn, ...args1) => (...args2) => (

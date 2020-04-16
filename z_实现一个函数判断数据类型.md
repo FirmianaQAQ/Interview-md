@@ -1,4 +1,4 @@
-# [< |](./readme.md) 实现一个函数判断数据类型
+# [< |](./readme.md) 实现一个函数判断数据类型 
 
 ```
 function getType(obj) {

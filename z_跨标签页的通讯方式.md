@@ -1,4 +1,4 @@
-# [< |](./readme.md) 跨标签页的通讯方式有哪些
+# [< |](./readme.md) 跨标签页的通讯方式有哪些 
 
 - [广播频道 - `BroadCast Channel`](http://www.zhangyunling.com/772.html)
 - [`Service Worker`](https://www.jianshu.com/p/768be2733872)

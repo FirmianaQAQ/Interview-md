@@ -21,7 +21,7 @@ let c7 = checkType('hhhhhhhhdas');
 let c8 = checkType(/2112/);
 let c9 = checkType(new Date());
 
-
+// 统一输出
 (function () {
   console.log({
     c1,

@@ -1,4 +1,4 @@
-# [< |](./readme.md) CSS3中 transition 和 animation 的属性分别有哪些？
+# [< |](./readme.md) CSS3中 transition 和 animation 的属性分别有哪些？ 
 
 ## transition 过渡动画
 

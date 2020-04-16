@@ -15,9 +15,6 @@ let t1 = add(1, 2)
 
 let t2 = curryingAdd(1)(2)
 
-
-// console.log(t1, t2)
-
 // test 2
 const curry = (fn, ...args1) => (...args2) => (
   arg => arg.length === fn.length ? fn(...arg) : curry(fn, ...arg)
