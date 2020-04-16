@@ -13,4 +13,4 @@ curry(foo, 2, 3)(4); // -> 24
 curry(foo, 2, 3, 4)(); // -> 24
 ```
 
-## [参考文档](https://www.jianshu.com/p/2975c25e4d71)
+## [参考文档地址](https://www.jianshu.com/p/2975c25e4d71)
