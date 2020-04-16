@@ -43,7 +43,7 @@ let k5 = curry(foo, 2, 3, 4)();
 // 要注意分号 ; 哦～
 
 // 统一输出
-(function outPut () {
+(function () {
   let allPush = {
     'add-value': t1,
     'curryingAdd-value': t2,
