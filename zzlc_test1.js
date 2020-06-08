@@ -6,8 +6,8 @@
  * @Desc: 每个数字只能用一次
  */
 
-const nums = [2, 7, 11, 15],
-  target = 9
+const nums = [1, 1, 7, 8, 2, 7, 11, 15],
+  target = 3
 
 const twoSum = function (nums, target) {
   const mapTemp = []
@@ -16,5 +16,4 @@ const twoSum = function (nums, target) {
     mapTemp[target - nums[key]] = key
   }
 }
-
 console.log(twoSum(nums, target))
