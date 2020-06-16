@@ -2,6 +2,7 @@
 ## https://juejin.im/post/5e53cf886fb9a07c91101642
 
 ## ts
+
 - never 和 void 的区别
 
 ```
